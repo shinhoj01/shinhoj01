@@ -1,3 +1,3 @@
 - Greeting, I am Hojun Shin!
-- I am undergraduate student at Oregon State University.
+- I am graduate student at Oregon State University.
 - I am Computer Science major and I am interested in the computer visualization and simulation area.
